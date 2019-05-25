@@ -1,16 +1,3 @@
-/* string
-const what = "nicolas";
-*/
-/* boolean
-const what = true;
-*/
+const daysOfWeek = ["Mon", "Thu", "Wed"];
 
-/* number
-const what = "5555";
-*/
-
-/* float
-const what = 55.1;
-*/
-
-console.log(what);
+console.log(daysOfWeek[2]);
